@@ -17,19 +17,17 @@ The following **required** functionality is completed:
 The following **extensions** are implemented:
 
 * [x] When a map marker is created, the pin is animated.
-* [x] List anything else that you did to improve the app functionality or design!
+* [x] Changed default coloring
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+https://youtu.be/GPA1FiKQJ-M
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The largest probelm I faced with creating this app was getting information to pass from one activity to another. I didn't really understand how an onClickListener on one activity could interact with another activity.
 
 ## License
 
